@@ -1,0 +1,33 @@
+body {
+    background-color: deepskyblue;
+}
+
+#score {
+    font-size: 35px;
+    margin-left: 20px;
+    float: left;
+}
+
+#timer {
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
+
+#show_sketch {
+    float: right;
+    color: yellow;
+    background-color: slateblue;
+}
+
+#sketch_name
+{
+    color:green;
+}
+
+p,
+span {
+    padding-top: 10px;
+    font-family: 'Special Elite', fantasy;
+    font-size: 25px;
+}
